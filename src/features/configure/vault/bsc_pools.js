@@ -892,7 +892,7 @@ export const bscPools = [
   },
   {
     id: 'banana-ata-bnb',
-    logo: 'bnb-pairs/ata-bnb.svg',
+    logo: 'bnb-pairs/ata-bnb.png',
     name: 'ATA-BNB LP',
     token: 'ATA-BNB ApeLP',
     tokenDescription: 'ApeSwap',
